@@ -1,5 +1,5 @@
 ---
-title: "Disturbance Chart Demo"
+title: "Exploring disturbance type by ecosystem"
 author: ""
 date: ""
 output: html_document
